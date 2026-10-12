@@ -1,0 +1,12 @@
+{
+  "crosshairicons.config.title": "Іконки під прицілом",
+  "crosshairicons.option.enabled": "Мод",
+  "crosshairicons.option.elytra": "Іконка елітр",
+  "crosshairicons.option.chestplate": "Іконка нагрудника",
+  "crosshairicons.option.opacity": "Прозорість",
+  "crosshairicons.option.size": "Розмір",
+  "crosshairicons.option.offset": "Відстань від прицілу",
+  "crosshairicons.size.small": "Малий",
+  "crosshairicons.size.medium": "Середній",
+  "crosshairicons.size.large": "Великий"
+}

@@ -1,0 +1,12 @@
+{
+  "crosshairicons.config.title": "Crosshair Icons",
+  "crosshairicons.option.enabled": "Mod",
+  "crosshairicons.option.elytra": "Elytra icon",
+  "crosshairicons.option.chestplate": "Chestplate icon",
+  "crosshairicons.option.opacity": "Opacity",
+  "crosshairicons.option.size": "Size",
+  "crosshairicons.option.offset": "Distance from crosshair",
+  "crosshairicons.size.small": "Small",
+  "crosshairicons.size.medium": "Medium",
+  "crosshairicons.size.large": "Large"
+}

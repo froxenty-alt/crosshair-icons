@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "crosshairicons",
+  "version": "${version}",
+  "name": "Crosshair Icons",
+  "description": "Показує невелику напівпрозору іконку під прицілом, коли на вас надягнені елітри або нагрудник.",
+  "authors": ["You"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.example.crosshairicons.CrosshairIconsClient"],
+    "modmenu": ["com.example.crosshairicons.ModMenuIntegration"]
+  },
+  "depends": {
+    "fabricloader": ">=0.17.0",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "modmenu": "*"
+  }
+}
